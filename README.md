@@ -8,12 +8,12 @@ poderá selecionar a unidade com a qual deseja trabalhar. Os dados deverão ser 
 um sistema de armazenamento para que possam ser preservados entre várias execuções da
 aplicação.
 #### Você deve implementar duas funcionalidades, a saber:
-##### 1. Administrativo - executado pelo funcionário da unidade, inclui o gerenciamento do
+- 1. Administrativo - executado pelo funcionário da unidade, inclui o gerenciamento do
 cadastro de clientes e das contas. O controle de acesso a estas funcionalidades deverá
 ser habilitado mediante uma senha. O sistema deverá permitir:
-A. Cadastrar uma nova unidade
-B. Selecionar uma unidade já cadastrada para gerenciamento
-C. Uma unidade deverá ter pelo menos as seguintes informações:
+- A. Cadastrar uma nova unidade
+- B. Selecionar uma unidade já cadastrada para gerenciamento
+- C. Uma unidade deverá ter pelo menos as seguintes informações:
 I. Nome da unidade
 II. Senha de acesso
 III. Cadastro de clientes
