@@ -11,26 +11,26 @@ aplicação.
 - 1. Administrativo - executado pelo funcionário da unidade, inclui o gerenciamento do
 cadastro de clientes e das contas. O controle de acesso a estas funcionalidades deverá
 ser habilitado mediante uma senha. O sistema deverá permitir:
-- A. Cadastrar uma nova unidade
-- B. Selecionar uma unidade já cadastrada para gerenciamento
-- C. Uma unidade deverá ter pelo menos as seguintes informações:
-I. Nome da unidade
-II. Senha de acesso
-III. Cadastro de clientes
-IV. Cadastro de contas dos clientes
-D. Deverá existir uma funcionalidade para manutenção dos clientes:
-I. Lista de clientes exibindo os seus dados cadastrais
-II. Cadastrar novos clientes
-II. Excluir clientes, desde que o cliente não seja vinculado a alguma conta
-E. Um cliente deverá ter pelo menos as seguintes informações:
-I. Nome do cliente
-II. CPF
-III. Endereço
-F. O gerenciamento de contas deverá permitir:
-I. Lista de contas exibindo os seus dados cadastrais
-II. Cadastrar uma nova conta
-III. Excluir uma conta
-IV. Alterar uma conta
+-- A. Cadastrar uma nova unidade
+-- B. Selecionar uma unidade já cadastrada para gerenciamento
+-- C. Uma unidade deverá ter pelo menos as seguintes informações:
+--- I. Nome da unidade
+--- II. Senha de acesso
+--- III. Cadastro de clientes
+--- IV. Cadastro de contas dos clientes
+-- D. Deverá existir uma funcionalidade para manutenção dos clientes:
+--- I. Lista de clientes exibindo os seus dados cadastrais
+--- II. Cadastrar novos clientes
+--- II. Excluir clientes, desde que o cliente não seja vinculado a alguma conta
+-- E. Um cliente deverá ter pelo menos as seguintes informações:
+--- I. Nome do cliente
+--- II. CPF
+--- III. Endereço
+-- F. O gerenciamento de contas deverá permitir:
+--- I. Lista de contas exibindo os seus dados cadastrais
+--- II. Cadastrar uma nova conta
+--- III. Excluir uma conta
+--- IV. Alterar uma conta
 
 ##### 2. Cliente - permitindo a manutenção de contas. As seguintes operações devem ser
 suportadas:
